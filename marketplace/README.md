@@ -1,6 +1,6 @@
 # Monarch Providers Marketplace
 
-The provider/extension index for [Monarch](https://github.com/arnislvdev/monarch), forked from Pal's MIT-licensed [Seanime-Providers](https://github.com/Pal-droid/Seanime-Providers).
+The provider/extension index for [Monarch](https://arnislvdev.github.io/monarch-web), forked from Pal's MIT-licensed [Seanime-Providers](https://github.com/Pal-droid/Seanime-Providers).
 
 [Click here](https://raw.githubusercontent.com/arnislvdev/monarch-providers/main/marketplace/main.json) for the marketplace's manifest URL.
 

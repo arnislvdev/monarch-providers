@@ -7,10 +7,10 @@
 </p>
 
 > [!IMPORTANT]
-> This repository is the built-in provider source for **[Monarch](https://github.com/arnislvdev/monarch)**. It is a fork of Pal's MIT-licensed [Seanime-Providers](https://github.com/Pal-droid/Seanime-Providers) — the extensions use the Seanime extension format, so they remain compatible with [Seanime](https://github.com/5rahim/seanime) as well.
+> This repository is the built-in provider source for **[Monarch](https://arnislvdev.github.io/monarch-web)**. It is a fork of Pal's MIT-licensed [Seanime-Providers](https://github.com/Pal-droid/Seanime-Providers) — the extensions use the Seanime extension format, so they remain compatible with [Seanime](https://github.com/5rahim/seanime) as well.
 
 <p align="center">
-This repository contains manga and anime provider extensions (and some plugins) for <strong><a href="https://github.com/arnislvdev/monarch">Monarch</a></strong>, adding support for various online sources.
+This repository contains manga and anime provider extensions (and some plugins) for <strong><a href="https://arnislvdev.github.io/monarch-web">Monarch</a></strong>, adding support for various online sources.
 </p>
 
 <h3 align="center">Powered by:</h3>
