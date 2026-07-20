@@ -1,5 +1,5 @@
 /**
- * Seanime Extension for Anime-Sama
+ * Monarch Extension for Anime-Sama
  * Implements MangaProvider interface for 'https://anime-sama.to'.
  */
 class Provider {

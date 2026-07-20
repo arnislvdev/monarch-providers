@@ -1,5 +1,5 @@
 /**
- * Seanime Extension for MangaFreak
+ * Monarch Extension for MangaFreak
  * Implements MangaProvider interface for 'https://ww2.mangafreak.me'.
  */
 class Provider {

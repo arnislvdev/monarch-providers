@@ -1,5 +1,5 @@
 /**
- * Seanime Extension for Taiyo
+ * Monarch Extension for Taiyo
  * Implements MangaProvider interface for 'https://taiyo.moe'.
  */
 class Provider {

@@ -1,6 +1,6 @@
-# Seanime Mangabuddy Extension
+# Monarch Mangabuddy Extension
 
-This is a **Seanime extension** implementation for [Mangabuddy](https://mangabuddy.com).
+This is a **Monarch extension** implementation for [Mangabuddy](https://mangabuddy.com).
 
 ## Features
 
@@ -40,4 +40,4 @@ This is a **Seanime extension** implementation for [Mangabuddy](https://mangabud
 
 ### Notes
 
-* Other Mangabuddy mirrors are also available, you can choose which mirror to scrape from in the extension's settings after adding it on Seanime.
+* Other Mangabuddy mirrors are also available, you can choose which mirror to scrape from in the extension's settings after adding it on Monarch.

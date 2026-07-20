@@ -1,5 +1,5 @@
 // chapter-list.js
-// Watches for Seanime's chapter list toolbar via MutationObserver and injects
+// Watches for Monarch's chapter list toolbar via MutationObserver and injects
 // an "External Source" dropdown that lists installed Tachiyomi extensions.
 // Scope: UI only. Selecting an extension stores it in window.__extActiveSource.
 // Selecting "None" (or when no extensions are installed) is a no-op.

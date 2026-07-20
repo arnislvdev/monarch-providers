@@ -1,6 +1,6 @@
-# Seanime MangaFreak Extension
+# Monarch MangaFreak Extension
 
-This is a **Seanime extension** implementation for [MangaFreak](https://ww2.mangafreak.me).
+This is a **Monarch extension** implementation for [MangaFreak](https://ww2.mangafreak.me).
 
 ## Features
 

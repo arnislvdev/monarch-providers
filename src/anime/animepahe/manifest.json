@@ -2,13 +2,13 @@
   "id": "animepahe",
   "name": "Animepahe",
   "version": "1.2.3",
-  "manifestURI": "https://raw.githubusercontent.com/Pal-droid/Seanime-Providers/refs/heads/main/src/anime/animepahe/manifest.json",
+  "manifestURI": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/anime/animepahe/manifest.json",
   "language": "typescript",
   "type": "onlinestream-provider",
-  "description": "Animepahe streaming provider for Seanime",
+  "description": "Animepahe streaming provider for Monarch",
   "author": "ItsSkaiya & Pal",
   "icon": "https://raw.githubusercontent.com/Pal-droid/seanime-marketplace/refs/heads/main/animepahe.png",
   "website": "",
   "lang": "en",
-  "payloadURI": "https://raw.githubusercontent.com/Pal-droid/Seanime-Providers/refs/heads/main/src/anime/animepahe/provider.ts"
+  "payloadURI": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/anime/animepahe/provider.ts"
 }

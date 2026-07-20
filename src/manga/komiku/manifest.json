@@ -1,13 +1,13 @@
 {
   "id": "komiku",
   "name": "Komiku",
-  "description": "Komiku is a manga provider for Seanime",
-  "manifestURI": "https://raw.githubusercontent.com/Pal-droid/Seanime-Providers/refs/heads/main/src/manga/komiku/manifest.json",
+  "description": "Komiku is a manga provider for Monarch",
+  "manifestURI": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/manga/komiku/manifest.json",
   "version": "1.0.0",
   "author": "pal",
-  "icon": "https://raw.githubusercontent.com/Pal-droid/Seanime-Providers/main/public/komiku.png",
+  "icon": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/main/public/komiku.png",
   "type": "manga-provider",
   "language": "javascript",
   "lang": "id",
-  "payloadURI": "https://raw.githubusercontent.com/Pal-droid/Seanime-Providers/refs/heads/main/src/manga/komiku/provider.js"
+  "payloadURI": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/manga/komiku/provider.js"
 }

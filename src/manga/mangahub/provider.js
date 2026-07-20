@@ -1,5 +1,5 @@
 /**
- * Seanime Extension for MangaHub
+ * Monarch Extension for MangaHub
  * Implements MangaProvider interface for 'https://mangahub.ru'.
  */
 class Provider {

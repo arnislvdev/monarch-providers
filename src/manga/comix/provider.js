@@ -1,5 +1,5 @@
 /**
- * Seanime Extension for Comix
+ * Monarch Extension for Comix
  * Implements MangaProvider interface for 'https://comix.to'.
  */
 

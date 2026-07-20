@@ -1,5 +1,5 @@
 /**
- * Seanime Extension for Komiku
+ * Monarch Extension for Komiku
  * Implements MangaProvider interface for 'https://komiku.org'.
  */
 class Provider {

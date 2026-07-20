@@ -1,6 +1,6 @@
-# Seanime Scanita Extension
+# Monarch Scanita Extension
 
-This is a **Seanime extension** implementation for [Scanita](https://scanita.org).
+This is a **Monarch extension** implementation for [Scanita](https://scanita.org).
 
 ## Features
 

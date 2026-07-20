@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <title>Seanime Marketplace</title>
+    <title>Monarch Marketplace</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -92,7 +92,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 text-white" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3-1.912 5.813a2 2 0 0 1-1.275 1.275L3 12l5.813 1.912a2 2 0 0 1 1.275 1.275L12 21l1.912-5.813a2 2 0 0 1 1.275-1.275L21 12l-5.813-1.912a2 2 0 0 1-1.275-1.275L12 3Z"/></svg>
                 </div>
                 <h1 class="text-xl font-bold tracking-tight text-white">
-                  Seanime <span class="text-gray-500 font-normal">Marketplace</span>
+                  Monarch <span class="text-gray-500 font-normal">Marketplace</span>
                 </h1>
             </div>
             
@@ -288,16 +288,16 @@
 
       function getStoredSettings() {
           return {
-              uri: localStorage.getItem('seanime_uri') || DEFAULT_URI,
-              port: localStorage.getItem('seanime_port') || DEFAULT_PORT
+              uri: localStorage.getItem('monarch_uri') || DEFAULT_URI,
+              port: localStorage.getItem('monarch_port') || DEFAULT_PORT
           };
       }
 
       function saveSettings(uri, port) {
           // Remove trailing slash from URI if present
           if (uri.endsWith('/')) uri = uri.slice(0, -1);
-          localStorage.setItem('seanime_uri', uri);
-          localStorage.setItem('seanime_port', port);
+          localStorage.setItem('monarch_uri', uri);
+          localStorage.setItem('monarch_port', port);
           showToast("Settings saved!");
       }
 
@@ -400,7 +400,7 @@
         // Show skeletons first
         categories.forEach(id => renderSkeletons(id));
 
-        const url = "https://raw.githubusercontent.com/pal-droid/seanime-providers/main/marketplace/main.json";
+        const url = "https://raw.githubusercontent.com/arnislvdev/monarch-providers/main/marketplace/main.json";
         let res, data;
 
         try {

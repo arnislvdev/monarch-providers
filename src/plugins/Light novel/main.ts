@@ -40,13 +40,13 @@ function init() {
                     appLayout: ".UI-AppLayout__root"
                 },
                 assets: {
-                    css: "https://raw.githubusercontent.com/Pal-droid/Seanime-Providers/main/src/plugins/Light%20novel/styles.css",
-                    queries: "https://raw.githubusercontent.com/Pal-droid/Seanime-Providers/refs/heads/main/src/plugins/Light%20novel/anilist.js",
-                    scraperBuddy: "https://raw.githubusercontent.com/Pal-droid/Seanime-Providers/refs/heads/main/src/plugins/Light%20novel/providers/novelbuddy.js",
-                    scraperBin: "https://raw.githubusercontent.com/Pal-droid/Seanime-Providers/refs/heads/main/src/plugins/Light%20novel/providers/novelbin.js",
-                    scraperHall: "https://raw.githubusercontent.com/Pal-droid/Seanime-Providers/refs/heads/main/src/plugins/Light%20novel/providers/novelhall.js",
-                    scraperFire: "https://raw.githubusercontent.com/Pal-droid/Seanime-Providers/refs/heads/main/src/plugins/Light%20novel/providers/novelfire.js",
-                    scraperLocal: "https://raw.githubusercontent.com/Pal-droid/Seanime-Providers/refs/heads/main/src/plugins/Light%20novel/providers/local-epub.js",
+                    css: "https://raw.githubusercontent.com/arnislvdev/monarch-providers/main/src/plugins/Light%20novel/styles.css",
+                    queries: "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/plugins/Light%20novel/anilist.js",
+                    scraperBuddy: "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/plugins/Light%20novel/providers/novelbuddy.js",
+                    scraperBin: "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/plugins/Light%20novel/providers/novelbin.js",
+                    scraperHall: "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/plugins/Light%20novel/providers/novelhall.js",
+                    scraperFire: "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/plugins/Light%20novel/providers/novelfire.js",
+                    scraperLocal: "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/plugins/Light%20novel/providers/local-epub.js",
                     jszip: "https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js",
                 },
                 genres: [
@@ -1547,7 +1547,7 @@ function init() {
         // ---------------------------------------------------------------------------
         const tray = ctx.newTray({
             tooltipText: "Novel Reader",
-            iconUrl: "https://raw.githubusercontent.com/Pal-droid/Seanime-Providers/refs/heads/main/public/ln.png",
+            iconUrl: "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/public/ln.png",
             withContent: false,
         });
         tray.onClick(async () => {

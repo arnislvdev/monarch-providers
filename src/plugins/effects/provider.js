@@ -13,7 +13,7 @@ function init() {
     let isHiddenMode = false; // Tracks if we are in Reader OR Video Player
     let activeSnowflakes = 0;
     const MAX_SNOWFLAKES = 50;
-    const XMAS_LOGO = 'https://raw.githubusercontent.com/Pal-droid/Seanime-Providers/refs/heads/main/public/seanime-xmas.png';
+    const XMAS_LOGO = 'https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/public/seanime-xmas.png';
     const DEFAULT_LOGO = '/seanime-logo.png';
 
     try {

@@ -1,5 +1,5 @@
 /**
- * Seanime Extension for LelManga
+ * Monarch Extension for LelManga
  * Implements MangaProvider interface for 'https://www.lelmanga.com'.
  */
 class Provider {

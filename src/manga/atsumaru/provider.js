@@ -1,5 +1,5 @@
 /**
- * Seanime Extension for Atsu.moe
+ * Monarch Extension for Atsu.moe
  * Implements MangaProvider interface for 'https://atsu.moe'.
  */
 class Provider {
