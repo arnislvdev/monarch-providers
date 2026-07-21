@@ -574,5 +574,65 @@
     "lang": "en",
     "icon": "https://www.novelhall.com/favicon.ico",
     "website": "https://www.novelhall.com"
+  },
+  {
+    "id": "novelasligera",
+    "name": "NovelasLigera",
+    "description": "NovelasLigera is a Spanish web novel provider for Monarch",
+    "manifestURI": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/novel/novelasligera/manifest.json",
+    "author": "arnislvdev",
+    "type": "novel-provider",
+    "language": "javascript",
+    "lang": "es",
+    "icon": "https://novelasligera.com/favicon.ico",
+    "website": "https://novelasligera.com"
+  },
+  {
+    "id": "centralnovel",
+    "name": "CentralNovel",
+    "description": "CentralNovel is a Portuguese (BR) web novel provider for Monarch",
+    "manifestURI": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/novel/centralnovel/manifest.json",
+    "author": "arnislvdev",
+    "type": "novel-provider",
+    "language": "javascript",
+    "lang": "pt",
+    "icon": "https://centralnovel.com/favicon.ico",
+    "website": "https://centralnovel.com"
+  },
+  {
+    "id": "sakuranovel",
+    "name": "SakuraNovel",
+    "description": "SakuraNovel is an Indonesian web novel provider for Monarch",
+    "manifestURI": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/novel/sakuranovel/manifest.json",
+    "author": "arnislvdev",
+    "type": "novel-provider",
+    "language": "javascript",
+    "lang": "id",
+    "icon": "https://sakuranovel.id/favicon.ico",
+    "website": "https://sakuranovel.id"
+  },
+  {
+    "id": "69shuba",
+    "name": "69shuba",
+    "description": "69shuba is a Chinese raw web novel provider for Monarch",
+    "manifestURI": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/novel/69shuba/manifest.json",
+    "author": "arnislvdev",
+    "type": "novel-provider",
+    "language": "javascript",
+    "lang": "zh",
+    "icon": "https://www.69shuba.com/favicon.ico",
+    "website": "https://www.69shuba.com"
+  },
+  {
+    "id": "chireads",
+    "name": "Chireads",
+    "description": "Chireads is a French web novel provider for Monarch",
+    "manifestURI": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/novel/chireads/manifest.json",
+    "author": "arnislvdev",
+    "type": "novel-provider",
+    "language": "javascript",
+    "lang": "fr",
+    "icon": "https://chireads.com/favicon.ico",
+    "website": "https://chireads.com"
   }
 ]

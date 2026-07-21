@@ -1,0 +1,13 @@
+{
+  "id": "centralnovel",
+  "name": "CentralNovel",
+  "description": "CentralNovel is a Portuguese (BR) web novel provider for Monarch",
+  "manifestURI": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/novel/centralnovel/manifest.json",
+  "version": "1.0.0",
+  "author": "arnislvdev",
+  "icon": "https://centralnovel.com/favicon.ico",
+  "type": "novel-provider",
+  "language": "javascript",
+  "lang": "pt",
+  "payloadURI": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/novel/centralnovel/provider.js"
+}
