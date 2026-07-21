@@ -538,5 +538,41 @@
     "lang": "en",
     "icon": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/public/comix.png",
     "website": ""
+  },
+  {
+    "id": "novelbin",
+    "name": "NovelBin",
+    "description": "NovelBin is a free web/light-novel provider for Monarch",
+    "manifestURI": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/novel/novelbin/manifest.json",
+    "author": "arnislvdev",
+    "type": "novel-provider",
+    "language": "javascript",
+    "lang": "en",
+    "icon": "https://novelbin.com/favicon.ico",
+    "website": "https://novelbin.com"
+  },
+  {
+    "id": "mtlnovel",
+    "name": "MTLNovel",
+    "description": "MTLNovel is a machine-translated web novel provider for Monarch",
+    "manifestURI": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/novel/mtlnovel/manifest.json",
+    "author": "arnislvdev",
+    "type": "novel-provider",
+    "language": "javascript",
+    "lang": "en",
+    "icon": "https://www.mtlnovel.com/favicon.ico",
+    "website": "https://www.mtlnovel.com"
+  },
+  {
+    "id": "novelhall",
+    "name": "NovelHall",
+    "description": "NovelHall is a translated web novel provider for Monarch",
+    "manifestURI": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/novel/novelhall/manifest.json",
+    "author": "arnislvdev",
+    "type": "novel-provider",
+    "language": "javascript",
+    "lang": "en",
+    "icon": "https://www.novelhall.com/favicon.ico",
+    "website": "https://www.novelhall.com"
   }
 ]
