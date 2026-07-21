@@ -1,0 +1,13 @@
+{
+  "id": "chireads",
+  "name": "Chireads",
+  "description": "Chireads is a French web novel provider for Monarch",
+  "manifestURI": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/novel/chireads/manifest.json",
+  "version": "1.0.0",
+  "author": "arnislvdev",
+  "icon": "https://chireads.com/favicon.ico",
+  "type": "novel-provider",
+  "language": "javascript",
+  "lang": "fr",
+  "payloadURI": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/novel/chireads/provider.js"
+}

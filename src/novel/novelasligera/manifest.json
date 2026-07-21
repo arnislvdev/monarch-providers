@@ -1,0 +1,13 @@
+{
+  "id": "novelasligera",
+  "name": "NovelasLigera",
+  "description": "NovelasLigera is a Spanish web novel provider for Monarch",
+  "manifestURI": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/novel/novelasligera/manifest.json",
+  "version": "1.0.0",
+  "author": "arnislvdev",
+  "icon": "https://novelasligera.com/favicon.ico",
+  "type": "novel-provider",
+  "language": "javascript",
+  "lang": "es",
+  "payloadURI": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/novel/novelasligera/provider.js"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "69shuba",
+  "name": "69shuba",
+  "description": "69shuba is a Chinese raw web novel provider for Monarch",
+  "manifestURI": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/novel/69shuba/manifest.json",
+  "version": "1.0.0",
+  "author": "arnislvdev",
+  "icon": "https://www.69shuba.com/favicon.ico",
+  "type": "novel-provider",
+  "language": "javascript",
+  "lang": "zh",
+  "payloadURI": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/novel/69shuba/provider.js"
+}
