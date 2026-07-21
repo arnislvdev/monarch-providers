@@ -1,0 +1,13 @@
+{
+  "id": "novelbin",
+  "name": "NovelBin",
+  "description": "NovelBin is a free web/light-novel provider for Monarch",
+  "manifestURI": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/novel/novelbin/manifest.json",
+  "version": "1.0.0",
+  "author": "arnislvdev",
+  "icon": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/main/public/novelbin.png",
+  "type": "novel-provider",
+  "language": "javascript",
+  "lang": "en",
+  "payloadURI": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/novel/novelbin/provider.js"
+}

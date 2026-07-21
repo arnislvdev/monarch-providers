@@ -1,0 +1,13 @@
+{
+  "id": "novelhall",
+  "name": "NovelHall",
+  "description": "NovelHall is a translated web novel provider for Monarch",
+  "manifestURI": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/novel/novelhall/manifest.json",
+  "version": "1.0.0",
+  "author": "arnislvdev",
+  "icon": "https://www.novelhall.com/favicon.ico",
+  "type": "novel-provider",
+  "language": "javascript",
+  "lang": "en",
+  "payloadURI": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/novel/novelhall/provider.js"
+}
