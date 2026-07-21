@@ -540,6 +540,18 @@
     "website": ""
   },
   {
+    "id": "anibd",
+    "name": "AniBD",
+    "description": "AniBD is an online streaming provider for subbed BD anime in english",
+    "manifestURI": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/main/src/anime/anibd/manifest.json",
+    "author": "Pal",
+    "type": "onlinestream-provider",
+    "language": "javascript",
+    "lang": "en",
+    "icon": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/main/public/anibd.jpg",
+    "website": ""
+  },
+  {
     "id": "novelbin",
     "name": "NovelBin",
     "description": "NovelBin is a free web/light-novel provider for Monarch",
