@@ -46,7 +46,7 @@
     "lang": "ru",
     "icon": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/public/mangahub.ico",
     "website": ""
-  },  
+  },
   {
     "id": "mangacloud",
     "name": "MangaCloud",
@@ -130,7 +130,7 @@
     "lang": "en",
     "icon": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/public/atsumaru.ico",
     "website": ""
-  }, 
+  },
   {
     "id": "animesamamanga",
     "name": "AnimeSama (Manga)",
@@ -154,7 +154,7 @@
     "lang": "fr",
     "icon": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/public/lelmanga.png",
     "website": ""
-  }, 
+  },
   {
     "id": "taiyo",
     "name": "Taiyo",
@@ -393,102 +393,6 @@
     "language": "javascript",
     "lang": "it",
     "icon": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/public/scanita.png",
-    "website": ""
-  },
-  {
-    "id": "LN-reader",
-    "name": "Light Novel Reader",
-    "description": "A simple plugin for reading Light Novels inside Seanime.",
-    "manifestURI": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/plugins/Light%20novel/manifest.json",
-    "author": "Pal",
-    "type": "plugin",
-    "language": "typescript",
-    "lang": "EN",
-    "icon": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/public/ln.png",
-    "website": ""
-  },
-  {
-    "id": "snow-effect",
-    "name": "Seanime Snow effect",
-    "description": "A simple plugin to display snow effects.",
-    "manifestURI": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/plugins/effects/manifest.json",
-    "author": "Pal",
-    "type": "plugin",
-    "language": "javascript",
-    "lang": "EN",
-    "icon": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/public/seanime-xmas.png",
-    "website": ""
-  },
-  {
-    "id": "antiseeding",
-    "name": "Anti-Seeding",
-    "description": "Prevent torrent seeding.",
-    "manifestURI": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/plugins/antiseeding/manifest.json",
-    "author": "ItsSkaiya & Pal",
-    "type": "plugin",
-    "language": "typescript",
-    "lang": "EN",
-    "icon": "",
-    "website": ""
-  },
-  {
-    "id": "anime-news",
-    "name": "Anime News",
-    "description": "Get Anime news in your Seanime instance!",
-    "manifestURI": "https://raw.githubusercontent.com/Pal-droid/aninewsnet-seanime/refs/heads/main/manifest.json",
-    "author": "SyntaxSama & Pal",
-    "type": "plugin",
-    "language": "typescript",
-    "lang": "EN",
-    "icon": "https://raw.githubusercontent.com/Pal-droid/aninewsnet-seanime/refs/heads/main/animenewsnetwork.png",
-    "website": ""
-  },
-  {
-    "id": "always-advanced-search",
-    "name": "Always Advanced Search",
-    "description": "Always use advanced search instead of the basic search feature.",
-    "manifestURI": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/plugins/advanced-search/manifest.json",
-    "author": "SyntaxSama & Pal",
-    "type": "plugin",
-    "language": "typescript",
-    "lang": "EN",
-    "icon": "https://raw.githubusercontent.com/Pal-droid/advanced-search/refs/heads/main/2015046.png",
-    "website": ""
-  },
-  {
-    "id": "cookie-clicker",
-    "name": "Cookie Clicker",
-    "description": "A cookie clicker tray based plugin.",
-    "manifestURI": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/plugins/cookie-clicker/manifest.json",
-    "author": "SyntaxSama & Pal",
-    "type": "plugin",
-    "language": "typescript",
-    "lang": "EN",
-    "icon": "",
-    "website": ""
-  },
-  {
-    "id": "anilist-activity",
-    "name": "Anilist Activity",
-    "description": "A plugin for viewing your friend's and your Anilist activity in Seanime made by Pal.",
-    "manifestURI": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/plugins/anilist-activities/manifest.json",
-    "author": "Pal",
-    "type": "plugin",
-    "language": "typescript",
-    "lang": "MULTI",
-    "icon": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/public/anilist.ico",
-    "website": ""
-  },
-  {
-    "id": "account-switcher",
-    "name": "Account Switcher",
-    "description": "Allows you to switch between multiple AniList accounts swiftly.",
-    "manifestURI": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/plugins/acc-switcher-al/manifest.json",
-    "author": "FracturedSora & Pal",
-    "type": "plugin",
-    "language": "typescript",
-    "lang": "MULTI",
-    "icon": "https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/public/anilist.ico",
     "website": ""
   },
   {
