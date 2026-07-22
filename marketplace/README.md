@@ -4,13 +4,11 @@ The provider/extension index for [Monarch](https://arnislvdev.github.io/monarch-
 
 [Click here](https://raw.githubusercontent.com/arnislvdev/monarch-providers/main/marketplace/main.json) for the marketplace's manifest URL.
 
-[Click here](https://arnislvdev.github.io/monarch-providers/) to visit the visual marketplace.
-
 ---
 
-## Currently Available Extensions / Plugins
+## Currently Available Extensions
 
-Here’s a list of all currently available **extensions and plugins**:
+Here's a list of all currently available **extensions**:
 
 <details open>
 <summary><strong>Manga Providers</strong></summary>
@@ -65,18 +63,18 @@ Here’s a list of all currently available **extensions and plugins**:
 
 </details>
 
-<details>
-<summary><strong>Plugins</strong></summary>
+<details open>
+<summary><strong>Novel Providers</strong></summary>
 
 | Name | Language | Description | Manifest |
 |------|----------|-------------|----------|
-| <div align="center"><img src="https://raw.githubusercontent.com/Pal-droid/advanced-search/refs/heads/main/2015046.png" width="48" height="48"/><br><b>Always Advanced Search</b><br><img src="https://img.shields.io/badge/BROKEN-red?style=flat-square" /></div> | English | Always use advanced search instead of the basic search feature; *Original owner: [SyntaxSama](https://github.com/syntaxsama/)*. | [Click here](https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/plugins/advanced-search/manifest.json) |
-| <div align="center"><img src="https://raw.githubusercontent.com/SyntaxSama/aninewsnet-seanime/refs/heads/main/animenewsnetwork.png" width="48" height="48"/><br><b>Anime News</b></div> | English | A plugin for viewing the latest Anime news from [ANN](https://www.animenewsnetwork.com/); *Original owner: [SyntaxSama](https://github.com/syntaxsama/)*. | [Click here](https://raw.githubusercontent.com/Pal-droid/aninewsnet-seanime/refs/heads/main/manifest.json) |
-| <div align="center"><br><b>Anti Seeding</b></div> | English | *Original owner: [SyntaxSama](https://github.com/syntaxsama/)*. | [Click here](https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/plugins/antiseeding/manifest.json) |
-| <div align="center"><br><b>Cookie Clicker</b></div> | English | *Original owner: [SyntaxSama](https://github.com/syntaxsama/)*. | [Click here](https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/plugins/cookie-clicker/manifest.json) |
-| <div align="center"><img src="https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/public/ln.png" width="48" height="48"/><br><b>Light Novel Reader **(WIP)**</b></div> | English | Read light novels inside Seanime **(WIP)** | [Click here](https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/plugins/Light%20novel/manifest.json) |
-| <div align="center"><img src="https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/public/seanime-xmas.png" width="48" height="48"/><br><b>Seanime winter effects</b></div> | English | A simple plugin to display snow effects. | [Click here](https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/plugins/effects/manifest.json) |
-| <div align="center"><img src="https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/public/anilist.ico" width="48" height="48"/><br><b>Anilist Activity</b></div> | Multi | A plugin for viewing your friend's and your Anilist activity in Seanime made by Pal. | [Click here](https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/plugins/anilist-activities/manifest.json) |
-| <div align="center"><img src="https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/public/anilist.ico" width="48" height="48"/><br><b>Anilist Acc switcher</b></div> | Multi | Allows you to switch between multiple AniList accounts swiftly. *(Original author: FracturedSora)* | [Click here](https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/plugins/acc-switcher-al/manifest.json) |
+| <div align="center"><b>NovelBin</b></div> | English | NovelBin is a free web/light-novel provider for Monarch | [Click here](https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/novel/novelbin/manifest.json) |
+| <div align="center"><b>MTLNovel</b></div> | English | MTLNovel is a machine-translated web novel provider for Monarch | [Click here](https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/novel/mtlnovel/manifest.json) |
+| <div align="center"><b>NovelHall</b></div> | English | NovelHall is a translated web novel provider for Monarch | [Click here](https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/novel/novelhall/manifest.json) |
+| <div align="center"><b>NovelasLigera</b></div> | Español | NovelasLigera is a Spanish web novel provider for Monarch | [Click here](https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/novel/novelasligera/manifest.json) |
+| <div align="center"><b>CentralNovel</b></div> | Português | CentralNovel is a Portuguese (BR) web novel provider for Monarch | [Click here](https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/novel/centralnovel/manifest.json) |
+| <div align="center"><b>SakuraNovel</b></div> | Bahasa Indonesia | SakuraNovel is an Indonesian web novel provider for Monarch | [Click here](https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/novel/sakuranovel/manifest.json) |
+| <div align="center"><b>69shuba</b></div> | 中文 | 69shuba is a Chinese raw web novel provider for Monarch | [Click here](https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/novel/69shuba/manifest.json) |
+| <div align="center"><b>Chireads</b></div> | Français | Chireads is a French web novel provider for Monarch | [Click here](https://raw.githubusercontent.com/arnislvdev/monarch-providers/refs/heads/main/src/novel/chireads/manifest.json) |
 
 </details>
